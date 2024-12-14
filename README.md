@@ -1,10 +1,10 @@
-# Cats vs Dogs Classification using CNN
+# 🐾Cats vs Dogs Classification using CNN
 
 This project implements a **Convolutional Neural Network (CNN)** to classify images of cats and dogs using the popular "Dogs vs Cats" dataset from Kaggle.
 
 ---
 
-## Overview
+##🌟Overview
 The goal of this project is to classify images as either "cat" or "dog" using a deep learning model. A CNN is built and trained using TensorFlow/Keras on the Dogs vs Cats dataset.
 
 ### Project Overview
